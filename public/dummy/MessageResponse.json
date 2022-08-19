@@ -1,0 +1,32 @@
+{
+    "status": 200,
+    "success": "True",
+    "message": "0번 family Messages 조회 성공!",
+    "data": {
+        "family_id": 0,
+        "messages": [
+            {
+                "id" : 0,
+                "message": "뭐하고 계세요???",
+                "emoji" : "/img/modal/thinking_face.png"
+            },
+            {
+                "id" : 1,
+                "message": "오늘 하루도 힘찬 하루!!!",
+                "emoji" : "/img/modal/smiling_face_with_smiling_eyes.png"
+            },{
+                "id" : 2,
+                "message": "사랑해요!",
+                "emoji" : "/img/modal/red_heart.png"
+            },{
+                "id" : 3,
+                "message": "꼬르륵 꼬르르르륵… 쓰러지기 일보직전",
+                "emoji" : "/img/modal/cooked_rice.png"
+            },{
+                "id" : 4,
+                "message": "머니가 머니머니해도 최고! 용돈주세요",
+                "emoji" : "/img/modal/dollar_banknote.png"
+            }
+        ]
+    }
+}

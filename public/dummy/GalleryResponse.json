@@ -1,0 +1,139 @@
+{
+    "status": 200,
+    "success": true,
+    "message": "0번 family 갤러리 정보 불러오기 성공",
+    "data": [
+        {
+            "album_id": 0,
+            "title": "어색 했던 우리의 첫 만남",
+            "album_image": "https://user-images.githubusercontent.com/12531340/185092830-2e61cb07-7545-464b-9bd4-f49224b5138a.jpeg",
+            "create_at": "05/30/2022, 21:14:38",
+            "updated_at": "05/30/2022, 21:14:38",
+            "tags": [
+                "첫 만남",
+                "어색"
+            ],
+            "comment_num": 3,
+            "like_num": 2,
+            "is_stared": true
+        }, 
+        {
+            "album_id": 1,
+            "title": "기대 가득 품은 첫 회의 🌼",
+            "album_image": "https://user-images.githubusercontent.com/12531340/185095605-4885e6fc-ca24-4a60-b1d6-3c309e68ba00.png",
+            "create_at": "06/08/2022, 04:08:38",
+            "updated_at": "06/08/2022, 04:08:38",
+            "tags": [],
+            "comment_num": 1,
+            "like_num": 2,
+            "is_stared": false
+        },
+        {
+            "album_id": 2,
+            "title": "설렘 가득 두번째 회의 💖",
+            "album_image": "https://user-images.githubusercontent.com/12531340/185096499-858d57df-95e6-447d-aa7d-d516f11a613a.png",
+            "create_at": "08/07/2022, 04:08:38",
+            "updated_at": "08/07/2022, 04:08:38",
+            "tags": [
+                "반려동물"
+            ],
+            "comment_num": 6,
+            "like_num": 36,
+            "is_stared": true
+        },
+        {
+            "album_id": 3,
+            "title": "사랑을 사자배 제 1 회 피그마 캐치마인드 대회 🌸",
+            "album_image": "https://user-images.githubusercontent.com/12531340/185098519-b36c47a7-c3fb-4e7f-b4e0-6bc0f9dc5d59.png",
+            "create_at": "04/12/2022, 04:08:38",
+            "updated_at": "04/15/2022, 04:08:38",
+            "tags": [
+                "여행"
+            ],
+            "comment_num": 17,
+            "like_num": 29,
+            "is_stared": true
+        },
+        {
+            "album_id": 4,
+            "title": "진짜 의제네 가족의 영덕 여행 ✈️",
+            "album_image": "https://user-images.githubusercontent.com/12531340/183311501-97a82c7d-0db9-4a89-9db4-ebdc1a586851.png",
+            "create_at": "02/11/2019, 04:08:38",
+            "updated_at": "02/14/2019, 04:08:38",
+            "tags": [
+                "여행",
+                "김진우",
+                "상하이"
+            ],
+            "comment_num": 22,
+            "like_num": 8,
+            "is_stared": false
+        },
+        {
+            "album_id": 5,
+            "title": "오늘 뭐 했나요?5",
+            "album_image": "https://user-images.githubusercontent.com/12531340/182890026-9c11d9ae-56ea-4f75-9def-b9b85f31ff67.jpeg",
+            "create_at": "07/31/2022, 21:14:38",
+            "updated_at": "07/31/2022, 21:14:38",
+            "tags": [
+                "일상",
+                "건강"
+            ],
+            "comment_num": 93,
+            "like_num": 102,
+            "is_stared": true
+        },
+        {
+            "album_id": 6,
+            "title": "엄마가 찍은 꽃 🌼6",
+            "album_image": "https://user-images.githubusercontent.com/12531340/184152328-cff40b1e-2d5a-4e6f-af82-fa1b21226174.jpg",
+            "create_at": "08/08/2022, 04:08:38",
+            "updated_at": "08/08/2022, 04:08:38",
+            "tags": [],
+            "comment_num": 1,
+            "like_num": 2,
+            "is_stared": false
+        },
+        {
+            "album_id": 7,
+            "title": "우리 두부 💖7",
+            "album_image": "https://user-images.githubusercontent.com/12531340/183308068-d73b7e59-302b-4c88-8990-5a5cbb58efa1.png",
+            "create_at": "08/07/2022, 04:08:38",
+            "updated_at": "08/07/2022, 04:08:38",
+            "tags": [
+                "반려동물"
+            ],
+            "comment_num": 6,
+            "like_num": 36,
+            "is_stared": true
+        },
+        {
+            "album_id": 8,
+            "title": "벚꽃 놀이 🌸8",
+            "album_image": "https://user-images.githubusercontent.com/12531340/183311484-ccd43933-e043-484b-8257-2e073591d0b3.png",
+            "create_at": "04/12/2022, 04:08:38",
+            "updated_at": "04/15/2022, 04:08:38",
+            "tags": [
+                "여행"
+            ],
+            "comment_num": 17,
+            "like_num": 29,
+            "is_stared": true
+        },
+        {
+            "album_id": 9,
+            "title": "2019 상해 여행 ✈️9",
+            "album_image": "https://user-images.githubusercontent.com/12531340/183311501-97a82c7d-0db9-4a89-9db4-ebdc1a586851.png",
+            "create_at": "02/11/2019, 04:08:38",
+            "updated_at": "02/14/2019, 04:08:38",
+            "tags": [
+                "여행",
+                "김진우",
+                "상하이"
+            ],
+            "comment_num": 22,
+            "like_num": 8,
+            "is_stared": false
+        }
+    ]
+}

@@ -1,0 +1,47 @@
+{
+    "status": 200,
+    "success": "True",
+    "message": "0번 family 조회 성공!",
+    "data": {
+        "family_name": "최씨네 화목한 가족:)",
+        "cover_image": "https://user-images.githubusercontent.com/12531340/184589319-9ffff7e8-3aa4-488a-8218-b2e2e1715c25.jpeg",
+        "bio": "오늘도 파이팅!",
+        "members": [
+            {
+                "id" : 0,
+                "name": "최윤한",
+                "nickname": "엄마",
+                "bio": "유난떨기",
+                "profile" : "https://user-images.githubusercontent.com/12531340/184587972-31ac9d73-f5ff-41d4-8026-6c13dd041ba6.png"
+            },
+            {
+                "id" : 1,
+                "name": "김진우",
+                "nickname": "아빠",
+                "bio": "진진자라",
+                "profile" : "https://user-images.githubusercontent.com/12531340/184587955-5d925067-9ba8-4c76-b479-e4c66e7d2dc7.png"
+            },
+            {
+                "id" : 2,
+                "name": "나영경",
+                "nickname": "큰 딸",
+                "bio": "너영나영",
+                "profile" : "https://user-images.githubusercontent.com/12531340/184587971-dd89ec5f-95dc-40a9-877b-35bd0e9c05e3.png"
+            },
+            {
+                "id" : 3,
+                "name": "박다희",
+                "nickname": "작은 딸",
+                "bio": "박학다식",
+                "profile" : "https://user-images.githubusercontent.com/12531340/184587970-45e1b7f1-c309-4650-a57e-4648b9fc1a7f.png"
+            },
+            {
+                "id" : 4,
+                "name": "이의제",
+                "nickname": "아들",
+                "bio": "이의제기",
+                "profile" : "https://user-images.githubusercontent.com/12531340/184587966-d543b0ba-98d2-4e55-912d-631ff6b799fb.png"
+            }
+        ]
+    }
+}

@@ -1,0 +1,267 @@
+[
+    {
+        "status": 200,
+        "success": true,
+        "message": "0번 family 0번 Album Photo 불러오기 성공",
+        "data": [
+            {
+                "id": 0,
+                "album_id": 0,
+                "family_id": 0,
+                "user_id": 3,
+                "photo_image": "https://user-images.githubusercontent.com/12531340/183900292-239fec87-6d91-4c27-ad9e-df9019e7f1c8.JPG",
+                "like_count": 4,
+                "comment_count": 2,
+                "created_at": "02/14/2019, 04:08:38",
+                "updated_at": "02/14/2019, 04:08:38",
+                "my_like": true,
+                "is_bookmarked": true
+            }
+        ]
+    },
+    {
+        "status": 200,
+        "success": true,
+        "message": "0번 family 1번 Album Photo 불러오기 성공",
+        "data": [
+            {
+                "id": 0,
+                "album_id": 1,
+                "family_id": 0,
+                "user_id": 3,
+                "photo_image": "https://user-images.githubusercontent.com/12531340/183900292-239fec87-6d91-4c27-ad9e-df9019e7f1c8.JPG",
+                "like_count": 4,
+                "comment_count": 2,
+                "created_at": "02/14/2019, 04:08:38",
+                "updated_at": "02/14/2019, 04:08:38",
+                "my_like": true,
+                "is_bookmarked": true
+            }
+        ]
+    },
+    {
+        "status": 200,
+        "success": true,
+        "message": "0번 family 2번 Album Photo 불러오기 성공",
+        "data": [
+            {
+                "id": 0,
+                "album_id": 2,
+                "family_id": 0,
+                "user_id": 3,
+                "photo_image": "https://user-images.githubusercontent.com/12531340/183900292-239fec87-6d91-4c27-ad9e-df9019e7f1c8.JPG",
+                "like_count": 4,
+                "comment_count": 2,
+                "created_at": "02/14/2019, 04:08:38",
+                "updated_at": "02/14/2019, 04:08:38",
+                "my_like": true,
+                "is_bookmarked": true
+            }
+        ]
+    },
+    {
+        "status": 200,
+        "success": true,
+        "message": "0번 family 3번 Album Photo 불러오기 성공",
+        "data": [
+            {
+                "id": 0,
+                "album_id": 3,
+                "family_id": 0,
+                "user_id": 3,
+                "photo_image": "https://user-images.githubusercontent.com/12531340/183900292-239fec87-6d91-4c27-ad9e-df9019e7f1c8.JPG",
+                "like_count": 4,
+                "comment_count": 2,
+                "created_at": "02/14/2019, 04:08:38",
+                "updated_at": "02/14/2019, 04:08:38",
+                "my_like": true,
+                "is_bookmarked": true
+            }
+        ]
+    },
+    {
+        "status": 200,
+        "success": true,
+        "message": "0번 family 4번 Album Photo 불러오기 성공",
+        "data": [
+            {
+                "id": 0,
+                "album_id": 4,
+                "family_id": 0,
+                "user_id": 3,
+                "photo_image": "https://user-images.githubusercontent.com/12531340/183900292-239fec87-6d91-4c27-ad9e-df9019e7f1c8.JPG",
+                "like_count": 4,
+                "comment_count": 2,
+                "created_at": "02/14/2019, 04:08:38",
+                "updated_at": "02/14/2019, 04:08:38",
+                "my_like": true,
+                "is_bookmarked": false
+            },
+            {
+                "id": 1,
+                "album_id": 4,
+                "family_id": 0,
+                "user_id": 2,
+                "photo_image": "https://user-images.githubusercontent.com/12531340/184538413-41209cc2-2213-4217-a11d-db8df1893b09.jpeg",
+                "like_count": 2,
+                "comment_count": 2,
+                "created_at": "02/12/2019, 04:08:38",
+                "updated_at": "02/12/2019, 04:08:38",
+                "my_like": true,
+                "is_bookmarked": true
+            },
+            {
+                "id": 2,
+                "album_id": 4,
+                "family_id": 0,
+                "user_id": 1,
+                "photo_image": "https://user-images.githubusercontent.com/12531340/183900253-d1fc926e-0c48-417c-92c4-1e3a86a63cab.jpeg",
+                "like_count": 4,
+                "comment_count": 1,
+                "created_at": "02/11/2019, 04:08:38",
+                "updated_at": "02/11/2019, 04:08:38",
+                "my_like": true,
+                "is_bookmarked": true
+            },
+            {
+                "id": 3,
+                "album_id": 4,
+                "family_id": 0,
+                "user_id": 0,
+                "photo_image": "https://user-images.githubusercontent.com/12531340/184538407-40d2cf90-8ed0-4a91-92c4-4ceaf2df4eff.jpeg",
+                "like_count": 2,
+                "comment_count": 0,
+                "created_at": "02/11/2019, 04:08:38",
+                "updated_at": "02/11/2019, 04:08:38",
+                "my_like": false,
+                "is_bookmarked": false
+            },
+            {
+                "id": 4,
+                "album_id": 4,
+                "family_id": 4,
+                "user_id": 2,
+                "photo_image": "https://user-images.githubusercontent.com/12531340/184538566-9cd47fcf-a92c-40cb-a0c3-399e46c6596d.jpeg",
+                "like_count": 0,
+                "comment_count": 0,
+                "created_at": "02/11/2019, 04:08:38",
+                "updated_at": "02/11/2019, 04:08:38",
+                "my_like": false,
+                "is_bookmarked": true
+            },
+            {
+                "id": 5,
+                "album_id": 4,
+                "family_id": 0,
+                "user_id": 3,
+                "photo_image": "https://user-images.githubusercontent.com/12531340/184538596-4ffc319c-d3aa-4f36-8274-8b4967a61bee.jpeg",
+                "like_count": 0,
+                "comment_count": 10,
+                "created_at": "02/11/2019, 04:08:38",
+                "updated_at": "02/11/2019, 04:08:38",
+                "my_like": false,
+                "is_bookmarked": false
+            }
+        ]
+    },
+    {
+        "status": 200,
+        "success": true,
+        "message": "0번 family 5번 Album Photo 불러오기 성공",
+        "data": [
+            {
+                "id": 0,
+                "album_id": 5,
+                "family_id": 0,
+                "user_id": 3,
+                "photo_image": "https://user-images.githubusercontent.com/12531340/183900292-239fec87-6d91-4c27-ad9e-df9019e7f1c8.JPG",
+                "like_count": 4,
+                "comment_count": 2,
+                "created_at": "02/14/2019, 04:08:38",
+                "updated_at": "02/14/2019, 04:08:38",
+                "my_like": true,
+                "is_bookmarked": false
+            }
+        ]
+    },
+    {
+        "status": 200,
+        "success": true,
+        "message": "0번 family 6번 Album Photo 불러오기 성공",
+        "data": [
+            {
+                "id": 0,
+                "album_id": 6,
+                "family_id": 0,
+                "user_id": 3,
+                "photo_image": "https://user-images.githubusercontent.com/12531340/183900292-239fec87-6d91-4c27-ad9e-df9019e7f1c8.JPG",
+                "like_count": 4,
+                "comment_count": 2,
+                "created_at": "02/14/2019, 04:08:38",
+                "updated_at": "02/14/2019, 04:08:38",
+                "my_like": true,
+                "is_bookmarked": false
+            }
+        ]
+    },
+    {
+        "status": 200,
+        "success": true,
+        "message": "0번 family 7번 Album Photo 불러오기 성공",
+        "data": [
+            {
+                "id": 0,
+                "album_id": 7,
+                "family_id": 0,
+                "user_id": 3,
+                "photo_image": "https://user-images.githubusercontent.com/12531340/183900292-239fec87-6d91-4c27-ad9e-df9019e7f1c8.JPG",
+                "like_count": 4,
+                "comment_count": 2,
+                "created_at": "02/14/2019, 04:08:38",
+                "updated_at": "02/14/2019, 04:08:38",
+                "my_like": true,
+                "is_bookmarked": false
+            }
+        ]
+    },
+    {
+        "status": 200,
+        "success": true,
+        "message": "0번 family 8번 Album Photo 불러오기 성공",
+        "data": [
+            {
+                "id": 0,
+                "album_id": 8,
+                "family_id": 0,
+                "user_id": 3,
+                "photo_image": "https://user-images.githubusercontent.com/12531340/183900292-239fec87-6d91-4c27-ad9e-df9019e7f1c8.JPG",
+                "like_count": 4,
+                "comment_count": 2,
+                "created_at": "02/14/2019, 04:08:38",
+                "updated_at": "02/14/2019, 04:08:38",
+                "my_like": true,
+                "is_bookmarked": false
+            }
+        ]
+    },
+    {
+        "status": 200,
+        "success": true,
+        "message": "0번 family 9번 Album Photo 불러오기 성공",
+        "data": [
+            {
+                "id": 0,
+                "album_id": 9,
+                "family_id": 0,
+                "user_id": 3,
+                "photo_image": "https://user-images.githubusercontent.com/12531340/183900292-239fec87-6d91-4c27-ad9e-df9019e7f1c8.JPG",
+                "like_count": 4,
+                "comment_count": 2,
+                "created_at": "02/14/2019, 04:08:38",
+                "updated_at": "02/14/2019, 04:08:38",
+                "my_like": true,
+                "is_bookmarked": true
+            }
+        ]
+    }
+]
