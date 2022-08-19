@@ -1,0 +1,30 @@
+{
+  "files": {
+    "main.css": "/static/css/main.5a712e19.css",
+    "main.js": "/static/js/main.2918d654.js",
+    "static/js/787.03389e89.chunk.js": "/static/js/787.03389e89.chunk.js",
+    "static/media/SpoqaHanSansNeo-Thin.ttf": "/static/media/SpoqaHanSansNeo-Thin.b8666c6d2d1d929509a1.ttf",
+    "static/media/SpoqaHanSansNeo-Light.ttf": "/static/media/SpoqaHanSansNeo-Light.008270707379c4b4bc51.ttf",
+    "static/media/SpoqaHanSansNeo-Regular.ttf": "/static/media/SpoqaHanSansNeo-Regular.b935041cbcc86b551721.ttf",
+    "static/media/SpoqaHanSansNeo-Medium.ttf": "/static/media/SpoqaHanSansNeo-Medium.cf5c6ddcaec3f59a13c7.ttf",
+    "static/media/SpoqaHanSansNeo-Bold.ttf": "/static/media/SpoqaHanSansNeo-Bold.9a610369db9d3c28b99f.ttf",
+    "static/media/SpoqaHanSansNeo-Light.woff": "/static/media/SpoqaHanSansNeo-Light.1cb73b3acae88adbdd59.woff",
+    "static/media/SpoqaHanSansNeo-Bold.woff": "/static/media/SpoqaHanSansNeo-Bold.dc75532918fd412e27a3.woff",
+    "static/media/SpoqaHanSansNeo-Regular.woff": "/static/media/SpoqaHanSansNeo-Regular.4af655e2b88a518cc85c.woff",
+    "static/media/SpoqaHanSansNeo-Medium.woff": "/static/media/SpoqaHanSansNeo-Medium.823120084c9ac260b260.woff",
+    "static/media/SpoqaHanSansNeo-Thin.woff": "/static/media/SpoqaHanSansNeo-Thin.a6efdcf0d2b696673851.woff",
+    "static/media/SpoqaHanSansNeo-Bold.woff2": "/static/media/SpoqaHanSansNeo-Bold.1db18034ccc384032a4a.woff2",
+    "static/media/SpoqaHanSansNeo-Regular.woff2": "/static/media/SpoqaHanSansNeo-Regular.452bf1579d6a73fbaffc.woff2",
+    "static/media/SpoqaHanSansNeo-Medium.woff2": "/static/media/SpoqaHanSansNeo-Medium.8589927a4fa35d637a8d.woff2",
+    "static/media/SpoqaHanSansNeo-Light.woff2": "/static/media/SpoqaHanSansNeo-Light.13ba65ce1663198528ba.woff2",
+    "static/media/SpoqaHanSansNeo-Thin.woff2": "/static/media/SpoqaHanSansNeo-Thin.9aab6330b7ba8adf7abf.woff2",
+    "index.html": "/index.html",
+    "main.5a712e19.css.map": "/static/css/main.5a712e19.css.map",
+    "main.2918d654.js.map": "/static/js/main.2918d654.js.map",
+    "787.03389e89.chunk.js.map": "/static/js/787.03389e89.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.5a712e19.css",
+    "static/js/main.2918d654.js"
+  ]
+}
